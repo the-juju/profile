@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JuJu57/JuJu57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 32 years old **french** Full-Stack Developer working in **Luxembourg**.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working at **Ezbeez**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.json`, `.php`, `.yaml`
+- 🌍 I'm mostly active within the **AdonisJS community**
+- 🔭 I’m currently working on a personal project that i'll launch soon
+- 🌱 I’m currently learning **some DevOps skill**
+- 📫 Reach me on [Twitter](https://twitter.com/le_juju_)
+- 💬 Ask me about **nodejs**, **php**, **VueJS**, **Svelte**, **Angular**, **Mysql|mariadb**, **git** 
+- ⚡ Fun fact: I love astronomy 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JuJu's github stats](https://github-readme-stats.vercel.app/api?username=JuJu57&count_private=true&show_icons=true&theme=dracula)
