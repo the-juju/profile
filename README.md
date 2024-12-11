@@ -1,15 +1,15 @@
-### Hi there 👋 I'm Julien Gabriel
+### Hi there 👋 I'm Julien G.
 
-I'm a 33 years old **french** Full-Stack Developer working in **Luxembourg**.
+I'm a 36 years old **french** Full-Stack Developer working in **Luxembourg**.
 
-- 🏢 I'm currently **Senior software engineer** at **Fund Channel** and also co-founder at **Buyzooka Technologies**
-- 👨🏻‍💻 I have been developer for 11 years
+- 🏢 I'm currently **Senior software engineer** at **DNX Network** 
+- 👨🏻‍💻 I have been developer for 14 years
 - ⚙️ I use daily: `.ts`, `.js`, `.php`, `.json`, `.xml`, `.yaml`
-- 🌍 I'm mostly active within the **AdonisJS community** and **Symfony**
-- 🔭 I’m currently working on some big data projects
+- 🌍 I'm mostly active within the **VueJS community**, **Symfony** and **API Platform**
+- 🔭 I’m currently working on some website with 250k unique visitors per day
 - 🌱 I’m currently learning **some DevOps skill**
 - 💬 Ask me about **Nodejs**, **PHP8**, **VueJS**, **Svelte**, **Angular**, **MySQL & Mariadb**, **GIT**, **Docker**, **Software design**
-- ⚡ Fun fact: I love astronomy 🔭
+- ⚡ Fun fact: I love astronomy 🔭 and chess ♟️
 
 ![JuJu's github stats](https://github-readme-stats.vercel.app/api?username=JuJu57&count_private=true&show_icons=true&theme=dracula)
 
